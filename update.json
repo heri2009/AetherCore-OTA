@@ -1,6 +1,6 @@
 {
   "version": "v1.9",
   "versionCode": "190",
-  "zipUrl": "https://github.com/heri2009/AetherCore-OTA/archive/refs/tags/test1.zip",
+  "zipUrl": "https://github.com/heri2009/AetherCore-OTA/releases/download/v1.9/AetherCore-v1.9.zip",
   "changelog": "- GPU Lock & Skia Boost\n- SurfaceFlinger & Touch Responsiveness\n- Charging Enhancer & Cut-Off 100%\n- Volume Key Installer UI\n- OTA Support via update.json"
 }
