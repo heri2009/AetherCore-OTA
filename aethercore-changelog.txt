@@ -1,0 +1,6 @@
+[AetherCore v1.8]
+- OTA update support
+- GPU MHz Lock, Skia Boost, SurfaceFlinger
+- Fast Charging & Battery Tweaks
+- Volume key mode selector
+- Toast: The application has been optimized 🚀
